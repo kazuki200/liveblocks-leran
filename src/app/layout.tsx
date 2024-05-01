@@ -3,6 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
+const roomId = "liveblocks-tutorial-ygCLscCJDYL_gwJtxc-q1";
 
 export const metadata: Metadata = {
   title: "Create Next App",
